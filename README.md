@@ -30,7 +30,7 @@ cargo run
 ### Running C Games
 Navigate to a game folder, compile with `gcc`, and run the executable:
 ```bash
-cd c/game_name
+cd c/<game_name>
 gcc main.c -o game
 ./game
 ```
